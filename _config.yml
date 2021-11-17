@@ -1,8 +1,8 @@
 title: Bloggers Tech
 author: Charlie Phresh
+theme: minima
 email: your-email@domain.com
 description: This is my blog website for tech vibes.
-theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
