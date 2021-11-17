@@ -1,8 +1,7 @@
 title: Bloggers Tech Vibes
 author: Charlie Phresh
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is my blog website for tech vibes.
+description: This is my blog website for tech vibes.
  theme: minima
 
 # social links
